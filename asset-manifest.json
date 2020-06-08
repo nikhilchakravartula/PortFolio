@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PortFolio/static/css/main.e0a68b72.chunk.css",
-    "main.js": "/PortFolio/static/js/main.834cd0bc.chunk.js",
-    "main.js.map": "/PortFolio/static/js/main.834cd0bc.chunk.js.map",
+    "main.css": "/PortFolio/static/css/main.855ca6bb.chunk.css",
+    "main.js": "/PortFolio/static/js/main.645dc541.chunk.js",
+    "main.js.map": "/PortFolio/static/js/main.645dc541.chunk.js.map",
     "runtime-main.js": "/PortFolio/static/js/runtime-main.8dc53c33.js",
     "runtime-main.js.map": "/PortFolio/static/js/runtime-main.8dc53c33.js.map",
-    "static/js/2.bcf646a4.chunk.js": "/PortFolio/static/js/2.bcf646a4.chunk.js",
-    "static/js/2.bcf646a4.chunk.js.map": "/PortFolio/static/js/2.bcf646a4.chunk.js.map",
+    "static/js/2.fc195020.chunk.js": "/PortFolio/static/js/2.fc195020.chunk.js",
+    "static/js/2.fc195020.chunk.js.map": "/PortFolio/static/js/2.fc195020.chunk.js.map",
     "index.html": "/PortFolio/index.html",
-    "precache-manifest.23b5d3a573b7e7605c4f21a5f18cf9fc.js": "/PortFolio/precache-manifest.23b5d3a573b7e7605c4f21a5f18cf9fc.js",
+    "precache-manifest.3969a97bbb8f8731b738174ff2413451.js": "/PortFolio/precache-manifest.3969a97bbb8f8731b738174ff2413451.js",
     "service-worker.js": "/PortFolio/service-worker.js",
-    "static/css/main.e0a68b72.chunk.css.map": "/PortFolio/static/css/main.e0a68b72.chunk.css.map",
-    "static/js/2.bcf646a4.chunk.js.LICENSE.txt": "/PortFolio/static/js/2.bcf646a4.chunk.js.LICENSE.txt",
+    "static/css/main.855ca6bb.chunk.css.map": "/PortFolio/static/css/main.855ca6bb.chunk.css.map",
+    "static/js/2.fc195020.chunk.js.LICENSE.txt": "/PortFolio/static/js/2.fc195020.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PortFolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/BeingZeroLogo.JPG": "/PortFolio/static/media/BeingZeroLogo.c3209963.JPG",
     "static/media/contactMail.png": "/PortFolio/static/media/contactMail.d6d4086f.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8dc53c33.js",
-    "static/js/2.bcf646a4.chunk.js",
-    "static/css/main.e0a68b72.chunk.css",
-    "static/js/main.834cd0bc.chunk.js"
+    "static/js/2.fc195020.chunk.js",
+    "static/css/main.855ca6bb.chunk.css",
+    "static/js/main.645dc541.chunk.js"
   ]
 }
